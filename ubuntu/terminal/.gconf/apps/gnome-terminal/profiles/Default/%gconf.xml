@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="use_theme_colors" mtime="1435053910" type="bool" value="false"/>
+	<entry name="use_theme_background" mtime="1435053910" type="bool" value="false"/>
+	<entry name="background_darkness" mtime="1434725767" type="float" value="0.98196697235107422"/>
+	<entry name="background_type" mtime="1434725767" type="string">
+		<stringvalue>transparent</stringvalue>
+	</entry>
+	<entry name="silent_bell" mtime="1434725767" type="bool" value="true"/>
+	<entry name="cursor_shape" mtime="1434725767" type="string">
+		<stringvalue>ibeam</stringvalue>
+	</entry>
+	<entry name="font" mtime="1434725767" type="string">
+		<stringvalue>Inconsolata Medium 13</stringvalue>
+	</entry>
+	<entry name="use_system_font" mtime="1434725767" type="bool" value="false"/>
+	<entry name="palette" mtime="1435053911" type="string">
+		<stringvalue>#58586e6e7575:#dcdc32322f2f:#858599990000:#b5b589890000:#26268b8bd2d2:#6c6c7171c4c4:#2a2aa1a19898:#9393a1a1a1a1:#00002b2b3636:#d7d700000000:#5f5f87870000:#afaf87870000:#00008787ffff:#5f5f5f5fafaf:#0000afafafaf:#8a8a8a8a8a8a</stringvalue>
+	</entry>
+	<entry name="alternate_screen_scroll" mtime="1434725767" type="bool" value="true"/>
+	<entry name="background_color" mtime="1435053911" type="string">
+		<stringvalue>#070736364242</stringvalue>
+	</entry>
+	<entry name="visible_name" mtime="1434725767" type="string">
+		<stringvalue>Default</stringvalue>
+	</entry>
+	<entry name="bold_color" mtime="1434725767" type="string">
+		<stringvalue>#000000000000</stringvalue>
+	</entry>
+	<entry name="foreground_color" mtime="1435053911" type="string">
+		<stringvalue>#9393a1a1a1a1</stringvalue>
+	</entry>
+</gconf>
